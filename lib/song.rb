@@ -5,4 +5,5 @@ attr_accessor :name :artist
     @name = name 
   end
 
+ def self.all
 end
